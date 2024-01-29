@@ -4,6 +4,7 @@ function Home() {
     return (
         <div>
             <Dashboard />
+            <h2>PROYECTO ERNESTO GABRIEL SUÁREZ BARRERA</h2>
         </div>
     )
 }
